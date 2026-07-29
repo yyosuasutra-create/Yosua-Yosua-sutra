@@ -1,0 +1,8 @@
+{
+  "name": "Remix Galaksi AI",
+  "description": "Smart AI for instant gaming and cloud sync, requiring MVP access after two free sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
